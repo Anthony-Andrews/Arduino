@@ -1,2 +1,2 @@
 # Arduino
- poorly written c++ ._.
+ deprecated repo with some old projects
